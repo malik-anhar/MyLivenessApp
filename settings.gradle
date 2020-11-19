@@ -1,0 +1,3 @@
+include ':livenessDetection'
+include ':app'
+rootProject.name = "My Liveness App"
